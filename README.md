@@ -43,15 +43,15 @@ Kurmak için:
 ```bash
 pip install -r requirements.txt
 
-📊 Veri Kümesi
+� Veri Kümesi
 
 Veri, UCI Machine Learning Repository'deki Breast Cancer Wisconsin (Diagnostic) Data Set'ten alınmıştır:
 
-🔗 Veri kümesi linki
+ Veri kümesi linki
 
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
-🚀 Çalıştırmak İçin
+ Çalıştırmak İçin
 
 python breast-cancer-project.py
 
