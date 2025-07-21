@@ -31,15 +31,6 @@ breast-cancer-project/
 
 ---
 
-##  Görseller (Örnek)
-
-| PCA Sonrası Veri | KNN Karar Bölgeleri |
-|------------------|---------------------|
-| ![PCA](pca_plot.png) | ![KNN](knn_boundary.png) |
-
-
----
-
 ## Kullanılan Kütüphaneler
 
 - `pandas`
